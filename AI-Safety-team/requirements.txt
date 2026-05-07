@@ -1,0 +1,5 @@
+evaluate
+pandas
+datasets
+transformers
+bitsandbytes>=0.46.1

@@ -1,0 +1,307 @@
+model,row,gold,prediction,correct,raw_output,question
+Qwen/Qwen3-4B-Base,0,B,C,False,C,A 34-year-old married male chef presents with a 1 year 5 month history of persistent attentional and behavioral symptoms
+Qwen/Qwen3-4B-Base,1,B,B,True,B,"A 50-year-old married female, employed as a Human Resources Director, presents with a 1-year and 5-month history of symp"
+Qwen/Qwen3-4B-Base,2,B,C,False,C,"A 39-year-old single female, employed as a pharmacist, presents with a 1-year and 5-month history of persistent difficul"
+Qwen/Qwen3-4B-Base,3,B,C,False,C,A 27-year-old single female fashion stylist assistant presents with a 1 year and 5 month history of persistent inattenti
+Qwen/Qwen3-4B-Base,4,B,C,False,C,A 29-year-old single male sound engineer presents with a 1-year and 5-month history of symptoms characterized by signifi
+Qwen/Qwen3-4B-Base,5,B,C,False,C,"A 50-year-old female, married, working as a Human Resources Director, presents with a 1 year and 5 months history of fun"
+Qwen/Qwen3-4B-Base,6,B,C,False,C,A 28-year-old single female ER nurse presents with a 1 year 5 month history of persistent attentional and behavioral reg
+Qwen/Qwen3-4B-Base,7,B,C,False,C,"A 22-year-old single male, employed as a professional gamer, presents with a 1-year and 5-month history of symptoms. He "
+Qwen/Qwen3-4B-Base,8,B,C,False,C,A 36-year-old married male working as an auto mechanic presents with a 1 year and 5 months duration of persistent diffic
+Qwen/Qwen3-4B-Base,9,B,C,False,C,A 53-year-old married male bus driver presents with a 1 year and 5 month history of prominent inattentive and hyperactiv
+Qwen/Qwen3-4B-Base,10,B,C,False,C,"A 55-year-old male, a pest control specialist and divorced, presents with a 17-month history of symptoms indicative of n"
+Qwen/Qwen3-4B-Base,11,B,C,False,C,"A 游戏副本eldig-male
+
+The patient is a 41-year-old married male working as a welder. He reports a history of functional diff"
+Qwen/Qwen3-4B-Base,12,B,C,False,C,A 35-year-old married female speech therapist presents with a 1 year and 5 month history of persistent inattentive and h
+Qwen/Qwen3-4B-Base,13,B,C,False,C,A 39-year-old married female dermatologist presents with a 1-year and 5-month history of difficulties with inattention a
+Qwen/Qwen3-4B-Base,14,B,C,False,C,"A 37-year-old male, single, and employed as a subway driver, presents with a 1 year and 5-month history of persistent di"
+Qwen/Qwen3-4B-Base,15,A,C,False,C,"A 21-year-old single female, employed part-time at a café, presents with a 1 year and 10 month history of pervasive atte"
+Qwen/Qwen3-4B-Base,16,A,C,False,C,A 42-year-old married male factory supervisor presents with a 1-year and 10-month history of a persistent pattern of ina
+Qwen/Qwen3-4B-Base,17,A,C,False,C,A 38-year-old married male working as a crane operator presents with a history of persistent difficulties with attention
+Qwen/Qwen3-4B-Base,18,A,C,False,C,A 23-year-old single female professional ballet dancer presents with a 1 year and 10 month history of pervasive inattent
+Qwen/Qwen3-4B-Base,19,A,C,False,C,"A 33-year-old single female, employed as a flight attendant, presents with a 1-year and 10-month history of symptoms sug"
+Qwen/Qwen3-4B-Base,20,A,C,False,C,"A 41-year-old female, single, and employed as a hairdresser and salon owner, presents with a 1 year and 10-month history"
+Qwen/Qwen3-4B-Base,21,A,C,False,C,A 38-year-old single male tattoo artist presents with a 1 year and 10 month history of pervasive attentional and behavio
+Qwen/Qwen3-4B-Base,22,A,C,False,C,"A 52-year-old married female, employed as a Head Nurse, presents with a 1-year and 10-month history of symptoms suggesti"
+Qwen/Qwen3-4B-Base,23,A,A,True,A,"A 31-year-old single female, employed as a wedding dress designer, presents with a prolonged history of inattention, hyp"
+Qwen/Qwen3-4B-Base,24,A,C,False,C,A 45-year-old divorced female psychiatric ward nurse presents with a 1 year and 10 month history of persistent problems 
+Qwen/Qwen3-4B-Base,25,A,C,False,C,A 48-year-old married male factory supervisor presents with a 22-month history of difficulties with attention and hypera
+Qwen/Qwen3-4B-Base,26,A,C,False,C,"A 45-year-old male, divorced, working as a documentary director, presents with a 1 year and 10 month history of persiste"
+Qwen/Qwen3-4B-Base,27,A,C,False,C,A 38-year-old single male high school teacher presents with longstanding patterns of inattentive and hyperactive-impulsi
+Qwen/Qwen3-4B-Base,28,A,C,False,C,A 42-year-old divorced female custom furniture maker presents with a 1-year and 10-month history of symptoms characteriz
+Qwen/Qwen3-4B-Base,29,A,C,False,C,"A 28-year-old single female, working as a public defender, presents with a 1 year and 10 months duration of persistent d"
+Qwen/Qwen3-4B-Base,30,C,B,False,B,A 46-year-old married female interior designer presents with a 2-year-2-month history of pervasive difficulties with att
+Qwen/Qwen3-4B-Base,31,C,B,False,B,"A 58-year-old male school bus driver, widowed for several years, presents with a 26-month history of a persistent patter"
+Qwen/Qwen3-4B-Base,32,C,B,False,B,"A 48-year-old male, married and employed as a subway driver working in underground transit operations, presents with a 2"
+Qwen/Qwen3-4B-Base,33,C,B,False,B,A 38-year-old single male construction worker presents with a 2-year-2-month history of pervasive attentional and behavi
+Qwen/Qwen3-4B-Base,34,C,B,False,B,"A 58-year-old married male, employed as a Building Maintenance Supervisor, presents with a 2-year and 2-month history of"
+Qwen/Qwen3-4B-Base,35,C,B,False,B,A 82-year-old widowed female nursing home resident presents with a 2-year and 2-month history of persistent difficulties
+Qwen/Qwen3-4B-Base,36,C,B,False,B,A 41-year-old married female restaurant owner presents with a 2-year-2-month history of persistent attentional and behav
+Qwen/Qwen3-4B-Base,37,C,B,False,B,A 31-year-old married female elementary school teacher presents with a 2-year and 2-month history of symptoms characteri
+Qwen/Qwen3-4B-Base,38,C,B,False,B,A 28-year-old single male working as a software developer presents with a 2-year and 2-month history of persistent diffi
+Qwen/Qwen3-4B-Base,39,C,B,False,B,"A 41-year-old married female restaurant owner presented with a 2-year, 2-month history of persistent difficulties with a"
+Qwen/Qwen3-4B-Base,40,C,B,False,B,A 60-year-old married male ship captain presents with a 2-year and 2-month history of a pervasive pattern of inattention
+Qwen/Qwen3-4B-Base,41,C,B,False,B,"A  provocatively high-energy 31-year-old male, married and employed as a firefighter, presents with a two-year and two-m"
+Qwen/Qwen3-4B-Base,42,C,B,False,B,A 47-year-old single female department store sales manager presents with a 2-year-2-month history of prominent attention
+Qwen/Qwen3-4B-Base,43,C,B,False,B,"A 37-year-old married female, who is a stay-at-home mother, presents with a duration of two years and two months of symp"
+Qwen/Qwen3-4B-Base,44,C,B,False,B,A 27-year-old single female employed as an architectural designer presents with a 2-year and 2-month history of persiste
+Qwen/Qwen3-4B-Base,45,D,B,False,B,A 38-year-old single male tattoo artist presents with a 1 year and 2 month history of persistent attentional and behavio
+Qwen/Qwen3-4B-Base,46,D,D,True,D,A 45-year-old divorced male documentary director presents with a 14-month history of difficulties with attention and hyp
+Qwen/Qwen3-4B-Base,47,D,B,False,B,"A 30-year-old single male, employed as a startup founder currently facing financial insolvency, presents with a 1 year a"
+Qwen/Qwen3-4B-Base,48,D,B,False,B,A 32-year-old divorced male Chef de Cuisine presents with a 1 year and 2 month history of pervasive inattentive and hype
+Qwen/Qwen3-4B-Base,49,D,B,False,B,A 57-year-old married female school principal presents with a 14-month history of significant difficulties with attentio
+Qwen/Qwen3-4B-Base,50,D,B,False,B,"A 42-year-old male, married, working as a mechanical engineer, presents with a 1 year and 2 months history of persistent"
+Qwen/Qwen3-4B-Base,51,D,B,False,B,A 65-year-old widowed male forest ranger presents with a 1 year and 2 month history of pervasive inattentive and hyperac
+Qwen/Qwen3-4B-Base,52,D,B,False,B,A 44-year-old married male shipbuilder presents with a 14-month history of difficulties with inattention and hyperactivi
+Qwen/Qwen3-4B-Base,53,D,B,False,B,A 28-year-old single male working as a software developer presents with a 1 year and 2 months history of persistent diff
+Qwen/Qwen3-4B-Base,54,D,B,False,B,A 27-year-old single male hotel front desk agent presents with a 1 year and 2 month history of pervasive attentional and
+Qwen/Qwen3-4B-Base,55,D,B,False,B,A 25-year-old single male paramedic presents with a 1-year and 2-month history of symptoms characterized by inattention 
+Qwen/Qwen3-4B-Base,56,D,B,False,B,"A 62-year-old married female, currently working part-time as a census taker, presents with a 1-year and 2-month history "
+Qwen/Qwen3-4B-Base,57,D,B,False,B,A 28-year-old single male police patrol officer presents with a 1 year and 2 month history of persistent problems with a
+Qwen/Qwen3-4B-Base,58,D,B,False,B,"A 52-year-old married female, who works as a Head Nurse, presents with a 14-month history of a persistent and pervasive "
+Qwen/Qwen3-4B-Base,59,D,B,False,B,"A 38-year-old male, single, and working as a high school teacher, presents with a 1 year and 2 month history of persiste"
+Qwen/Qwen3-4B-Base,60,B,D,False,D,A 29-year-old single male medical resident (intern) presents with a 1 year and 10 month history of pervasive attentional
+Qwen/Qwen3-4B-Base,61,B,D,False,D,"A 41-year-old married male, employed as a welder, presents with a duration of symptoms spanning 1 year and 10 months. Th"
+Qwen/Qwen3-4B-Base,62,B,D,False,D,"A 32-year-old single male, employed as an archivist, presents with a 1 year and 10-month history of persistent difficult"
+Qwen/Qwen3-4B-Base,63,B,D,False,D,A 47-year-old single female department store sales manager presents with a 1 year 10 month history of pervasive attentio
+Qwen/Qwen3-4B-Base,64,B,D,False,D,A 34-year-old divorced female veterinary technician presents with a 22-month history of significant difficulties with at
+Qwen/Qwen3-4B-Base,65,B,D,False,D,"A 39-year-old married female, currently a stay-at-home mother, presents with a 1 year and 10-month history of persistent"
+Qwen/Qwen3-4B-Base,66,B,D,False,D,A 37-year-old single male subway driver presents with a 1 year 10 month history of pervasive attentional and behavioral 
+Qwen/Qwen3-4B-Base,67,B,D,False,D,A 59-year-old single female government official presents with a 1-year and 10-month history of significant difficulties 
+Qwen/Qwen3-4B-Base,68,B,D,False,D,A 34-year-old divorced female working as a veterinary technician presents with a 1 year and 10-month history of persiste
+Qwen/Qwen3-4B-Base,69,B,D,False,D,A 29-year-old single female civil service exam student (preparing for 4 years) presents with a 1 year 10 month history o
+Qwen/Qwen3-4B-Base,70,B,D,False,D,"A 35-year-old divorced female freelance writer presents with a chief complaint of inattentiveness and restlessness, pres"
+Qwen/Qwen3-4B-Base,71,B,D,False,D,"A 33-year-old married female, currently working as a data entry clerk, presents with a 1 year and 10 months duration of "
+Qwen/Qwen3-4B-Base,72,B,D,False,D,A 29-year-old single female nurse presents with a 1 year and 10 month history of persistent attentional and behavioral r
+Qwen/Qwen3-4B-Base,73,B,D,False,D,A 33-year-old single female broadcast writer presents with a one-year and ten-month history of symptoms consistent with 
+Qwen/Qwen3-4B-Base,74,B,D,False,D,A 36-year-old married female works as a sign language interpreter for the Deaf. She reports a persistent pattern of inat
+Qwen/Qwen3-4B-Base,75,A,A,True,A,A 43-year-old divorced female insurance agent presents with a 1 year 11 month history of prominent attentional difficult
+Qwen/Qwen3-4B-Base,76,A,A,True,A,"An 82-year-old widowed female, residing in a nursing home, presents with a duration of 1 year and 11 months of symptoms."
+Qwen/Qwen3-4B-Base,77,A,A,True,A,"A 37-year-old married female, currently a stay-at-home mother, presents with a 1 year and 11-month history of persistent"
+Qwen/Qwen3-4B-Base,78,A,A,True,A,A 37-year-old married female pharmacist presents with a 1 year 11 month history of prominent attentional difficulties ca
+Qwen/Qwen3-4B-Base,79,A,A,True,A,A 38-year-old single male tattoo artist presents with a 1-year and 11-month history of inattention and excessive verbal 
+Qwen/Qwen3-4B-Base,80,A,A,True,A,"A 36-year-old married male, employed as a solar panel technician, presents with a history of persistent difficulties wit"
+Qwen/Qwen3-4B-Base,81,A,A,True,A,A 33-year-old single male film editor presents with a 1 year 11 month history of prominent attentional difficulties caus
+Qwen/Qwen3-4B-Base,82,A,A,True,A,"A 26-year-old single female, employed as a special education teacher, presents with a nearly two-year history of inatten"
+Qwen/Qwen3-4B-Base,83,A,A,True,A,"A 27-year-old single male, employed as a landscape gardener, presents with a history of difficulty with attention and ex"
+Qwen/Qwen3-4B-Base,84,A,A,True,A,A 29-year-old single male sommelier presents with a 1 year and 11 month history of prominent attentional difficulties as
+Qwen/Qwen3-4B-Base,85,A,A,True,A,"A 22-year-old single female, employed as a pet groomer, presents with a nearly two-year history of inattention and relat"
+Qwen/Qwen3-4B-Base,86,A,A,True,A,A 32-year-old single male working as a cloud architect presents with a 1 year and 11 month history of persistent difficu
+Qwen/Qwen3-4B-Base,87,A,A,True,A,A 67-year-old widowed female volunteer worker presents with a 1 year and 11 month history of prominent attention-related
+Qwen/Qwen3-4B-Base,88,A,A,True,A,"A 27-year-old single male, employed as a hotel front desk agent, presents with a duration of symptomology spanning one y"
+Qwen/Qwen3-4B-Base,89,A,A,True,A,"A 46-year-old divorced male, employed as a logistics truck driver, presents with a 1 year and 11 month history of persis"
+Qwen/Qwen3-4B-Base,90,A,A,True,A,A 28-year-old single female ER nurse presents with a 2-year-4-month history of prominent attentional difficulties causin
+Qwen/Qwen3-4B-Base,91,A,A,True,A,"A 26-year-old single female, employed as a kindergarten teacher, presents with a 2-year and 4-month history of difficult"
+Qwen/Qwen3-4B-Base,92,A,A,True,A,"A 70-year-old widowed female, formerly employed as a nurse, presents with a 2-year and 4-month history of persistent cog"
+Qwen/Qwen3-4B-Base,93,A,A,True,A,A 49-year-old married male university professor presented with a 2-year-4-month history of cognitive and occupational di
+Qwen/Qwen3-4B-Base,94,A,A,True,A,"A 52-year-old married female, who works as a Head Nurse, presents with a 2-year and 4-month history of difficulties with"
+Qwen/Qwen3-4B-Base,95,A,A,True,A,"A 53-year-old male, married and employed as a bus driver, presents with a 2-year and 4-month history of persistent diffi"
+Qwen/Qwen3-4B-Base,96,A,A,True,A,A 44-year-old single female museum curator presents with a 2-year 4-month history of prominent attentional difficulties 
+Qwen/Qwen3-4B-Base,97,A,A,True,A,A 43-year-old single male bodyguard presents with a 2-year and 4-month history of persistent inattentive symptoms. The p
+Qwen/Qwen3-4B-Base,98,A,A,True,A,A 27-year-old single female working as a Fashion Stylist Assistant presents with a 2-year and 4-month history of persist
+Qwen/Qwen3-4B-Base,99,A,A,True,A,An 82-year-old widowed female nursing home resident presents with a 2-year-4-month history of persistent attentional dif
+Qwen/Qwen3-4B-Instruct-2507,0,B,B,True,B,A 34-year-old married male chef presents with a 1 year 5 month history of persistent attentional and behavioral symptoms
+Qwen/Qwen3-4B-Instruct-2507,1,B,B,True,B,"A 50-year-old married female, employed as a Human Resources Director, presents with a 1-year and 5-month history of symp"
+Qwen/Qwen3-4B-Instruct-2507,2,B,C,False,C,"A 39-year-old single female, employed as a pharmacist, presents with a 1-year and 5-month history of persistent difficul"
+Qwen/Qwen3-4B-Instruct-2507,3,B,B,True,B,A 27-year-old single female fashion stylist assistant presents with a 1 year and 5 month history of persistent inattenti
+Qwen/Qwen3-4B-Instruct-2507,4,B,B,True,B,A 29-year-old single male sound engineer presents with a 1-year and 5-month history of symptoms characterized by signifi
+Qwen/Qwen3-4B-Instruct-2507,5,B,B,True,B,"A 50-year-old female, married, working as a Human Resources Director, presents with a 1 year and 5 months history of fun"
+Qwen/Qwen3-4B-Instruct-2507,6,B,C,False,C,A 28-year-old single female ER nurse presents with a 1 year 5 month history of persistent attentional and behavioral reg
+Qwen/Qwen3-4B-Instruct-2507,7,B,B,True,B,"A 22-year-old single male, employed as a professional gamer, presents with a 1-year and 5-month history of symptoms. He "
+Qwen/Qwen3-4B-Instruct-2507,8,B,B,True,B,A 36-year-old married male working as an auto mechanic presents with a 1 year and 5 months duration of persistent diffic
+Qwen/Qwen3-4B-Instruct-2507,9,B,B,True,B,A 53-year-old married male bus driver presents with a 1 year and 5 month history of prominent inattentive and hyperactiv
+Qwen/Qwen3-4B-Instruct-2507,10,B,C,False,C,"A 55-year-old male, a pest control specialist and divorced, presents with a 17-month history of symptoms indicative of n"
+Qwen/Qwen3-4B-Instruct-2507,11,B,C,False,C,"A 游戏副本eldig-male
+
+The patient is a 41-year-old married male working as a welder. He reports a history of functional diff"
+Qwen/Qwen3-4B-Instruct-2507,12,B,B,True,B,A 35-year-old married female speech therapist presents with a 1 year and 5 month history of persistent inattentive and h
+Qwen/Qwen3-4B-Instruct-2507,13,B,B,True,B,A 39-year-old married female dermatologist presents with a 1-year and 5-month history of difficulties with inattention a
+Qwen/Qwen3-4B-Instruct-2507,14,B,B,True,B,"A 37-year-old male, single, and employed as a subway driver, presents with a 1 year and 5-month history of persistent di"
+Qwen/Qwen3-4B-Instruct-2507,15,A,A,True,A,"A 21-year-old single female, employed part-time at a café, presents with a 1 year and 10 month history of pervasive atte"
+Qwen/Qwen3-4B-Instruct-2507,16,A,A,True,A,A 42-year-old married male factory supervisor presents with a 1-year and 10-month history of a persistent pattern of ina
+Qwen/Qwen3-4B-Instruct-2507,17,A,A,True,A,A 38-year-old married male working as a crane operator presents with a history of persistent difficulties with attention
+Qwen/Qwen3-4B-Instruct-2507,18,A,A,True,A,A 23-year-old single female professional ballet dancer presents with a 1 year and 10 month history of pervasive inattent
+Qwen/Qwen3-4B-Instruct-2507,19,A,A,True,A,"A 33-year-old single female, employed as a flight attendant, presents with a 1-year and 10-month history of symptoms sug"
+Qwen/Qwen3-4B-Instruct-2507,20,A,A,True,A,"A 41-year-old female, single, and employed as a hairdresser and salon owner, presents with a 1 year and 10-month history"
+Qwen/Qwen3-4B-Instruct-2507,21,A,A,True,A,A 38-year-old single male tattoo artist presents with a 1 year and 10 month history of pervasive attentional and behavio
+Qwen/Qwen3-4B-Instruct-2507,22,A,A,True,A,"A 52-year-old married female, employed as a Head Nurse, presents with a 1-year and 10-month history of symptoms suggesti"
+Qwen/Qwen3-4B-Instruct-2507,23,A,A,True,A,"A 31-year-old single female, employed as a wedding dress designer, presents with a prolonged history of inattention, hyp"
+Qwen/Qwen3-4B-Instruct-2507,24,A,A,True,A,A 45-year-old divorced female psychiatric ward nurse presents with a 1 year and 10 month history of persistent problems 
+Qwen/Qwen3-4B-Instruct-2507,25,A,A,True,A,A 48-year-old married male factory supervisor presents with a 22-month history of difficulties with attention and hypera
+Qwen/Qwen3-4B-Instruct-2507,26,A,A,True,A,"A 45-year-old male, divorced, working as a documentary director, presents with a 1 year and 10 month history of persiste"
+Qwen/Qwen3-4B-Instruct-2507,27,A,A,True,A,A 38-year-old single male high school teacher presents with longstanding patterns of inattentive and hyperactive-impulsi
+Qwen/Qwen3-4B-Instruct-2507,28,A,A,True,A,A 42-year-old divorced female custom furniture maker presents with a 1-year and 10-month history of symptoms characteriz
+Qwen/Qwen3-4B-Instruct-2507,29,A,A,True,A,"A 28-year-old single female, working as a public defender, presents with a 1 year and 10 months duration of persistent d"
+Qwen/Qwen3-4B-Instruct-2507,30,C,C,True,C,A 46-year-old married female interior designer presents with a 2-year-2-month history of pervasive difficulties with att
+Qwen/Qwen3-4B-Instruct-2507,31,C,C,True,C,"A 58-year-old male school bus driver, widowed for several years, presents with a 26-month history of a persistent patter"
+Qwen/Qwen3-4B-Instruct-2507,32,C,C,True,C,"A 48-year-old male, married and employed as a subway driver working in underground transit operations, presents with a 2"
+Qwen/Qwen3-4B-Instruct-2507,33,C,C,True,C,A 38-year-old single male construction worker presents with a 2-year-2-month history of pervasive attentional and behavi
+Qwen/Qwen3-4B-Instruct-2507,34,C,C,True,C,"A 58-year-old married male, employed as a Building Maintenance Supervisor, presents with a 2-year and 2-month history of"
+Qwen/Qwen3-4B-Instruct-2507,35,C,B,False,B,A 82-year-old widowed female nursing home resident presents with a 2-year and 2-month history of persistent difficulties
+Qwen/Qwen3-4B-Instruct-2507,36,C,C,True,C,A 41-year-old married female restaurant owner presents with a 2-year-2-month history of persistent attentional and behav
+Qwen/Qwen3-4B-Instruct-2507,37,C,C,True,C,A 31-year-old married female elementary school teacher presents with a 2-year and 2-month history of symptoms characteri
+Qwen/Qwen3-4B-Instruct-2507,38,C,C,True,C,A 28-year-old single male working as a software developer presents with a 2-year and 2-month history of persistent diffi
+Qwen/Qwen3-4B-Instruct-2507,39,C,C,True,C,"A 41-year-old married female restaurant owner presented with a 2-year, 2-month history of persistent difficulties with a"
+Qwen/Qwen3-4B-Instruct-2507,40,C,C,True,C,A 60-year-old married male ship captain presents with a 2-year and 2-month history of a pervasive pattern of inattention
+Qwen/Qwen3-4B-Instruct-2507,41,C,C,True,C,"A  provocatively high-energy 31-year-old male, married and employed as a firefighter, presents with a two-year and two-m"
+Qwen/Qwen3-4B-Instruct-2507,42,C,C,True,C,A 47-year-old single female department store sales manager presents with a 2-year-2-month history of prominent attention
+Qwen/Qwen3-4B-Instruct-2507,43,C,C,True,C,"A 37-year-old married female, who is a stay-at-home mother, presents with a duration of two years and two months of symp"
+Qwen/Qwen3-4B-Instruct-2507,44,C,C,True,C,A 27-year-old single female employed as an architectural designer presents with a 2-year and 2-month history of persiste
+Qwen/Qwen3-4B-Instruct-2507,45,D,D,True,D,A 38-year-old single male tattoo artist presents with a 1 year and 2 month history of persistent attentional and behavio
+Qwen/Qwen3-4B-Instruct-2507,46,D,D,True,D,A 45-year-old divorced male documentary director presents with a 14-month history of difficulties with attention and hyp
+Qwen/Qwen3-4B-Instruct-2507,47,D,D,True,D,"A 30-year-old single male, employed as a startup founder currently facing financial insolvency, presents with a 1 year a"
+Qwen/Qwen3-4B-Instruct-2507,48,D,D,True,D,A 32-year-old divorced male Chef de Cuisine presents with a 1 year and 2 month history of pervasive inattentive and hype
+Qwen/Qwen3-4B-Instruct-2507,49,D,B,False,B,A 57-year-old married female school principal presents with a 14-month history of significant difficulties with attentio
+Qwen/Qwen3-4B-Instruct-2507,50,D,D,True,D,"A 42-year-old male, married, working as a mechanical engineer, presents with a 1 year and 2 months history of persistent"
+Qwen/Qwen3-4B-Instruct-2507,51,D,D,True,D,A 65-year-old widowed male forest ranger presents with a 1 year and 2 month history of pervasive inattentive and hyperac
+Qwen/Qwen3-4B-Instruct-2507,52,D,B,False,B,A 44-year-old married male shipbuilder presents with a 14-month history of difficulties with inattention and hyperactivi
+Qwen/Qwen3-4B-Instruct-2507,53,D,D,True,D,A 28-year-old single male working as a software developer presents with a 1 year and 2 months history of persistent diff
+Qwen/Qwen3-4B-Instruct-2507,54,D,D,True,D,A 27-year-old single male hotel front desk agent presents with a 1 year and 2 month history of pervasive attentional and
+Qwen/Qwen3-4B-Instruct-2507,55,D,D,True,D,A 25-year-old single male paramedic presents with a 1-year and 2-month history of symptoms characterized by inattention 
+Qwen/Qwen3-4B-Instruct-2507,56,D,B,False,B,"A 62-year-old married female, currently working part-time as a census taker, presents with a 1-year and 2-month history "
+Qwen/Qwen3-4B-Instruct-2507,57,D,D,True,D,A 28-year-old single male police patrol officer presents with a 1 year and 2 month history of persistent problems with a
+Qwen/Qwen3-4B-Instruct-2507,58,D,D,True,D,"A 52-year-old married female, who works as a Head Nurse, presents with a 14-month history of a persistent and pervasive "
+Qwen/Qwen3-4B-Instruct-2507,59,D,D,True,D,"A 38-year-old male, single, and working as a high school teacher, presents with a 1 year and 2 month history of persiste"
+Qwen/Qwen3-4B-Instruct-2507,60,B,D,False,D,A 29-year-old single male medical resident (intern) presents with a 1 year and 10 month history of pervasive attentional
+Qwen/Qwen3-4B-Instruct-2507,61,B,B,True,B,"A 41-year-old married male, employed as a welder, presents with a duration of symptoms spanning 1 year and 10 months. Th"
+Qwen/Qwen3-4B-Instruct-2507,62,B,B,True,B,"A 32-year-old single male, employed as an archivist, presents with a 1 year and 10-month history of persistent difficult"
+Qwen/Qwen3-4B-Instruct-2507,63,B,D,False,D,A 47-year-old single female department store sales manager presents with a 1 year 10 month history of pervasive attentio
+Qwen/Qwen3-4B-Instruct-2507,64,B,B,True,B,A 34-year-old divorced female veterinary technician presents with a 22-month history of significant difficulties with at
+Qwen/Qwen3-4B-Instruct-2507,65,B,D,False,D,"A 39-year-old married female, currently a stay-at-home mother, presents with a 1 year and 10-month history of persistent"
+Qwen/Qwen3-4B-Instruct-2507,66,B,D,False,D,A 37-year-old single male subway driver presents with a 1 year 10 month history of pervasive attentional and behavioral 
+Qwen/Qwen3-4B-Instruct-2507,67,B,B,True,B,A 59-year-old single female government official presents with a 1-year and 10-month history of significant difficulties 
+Qwen/Qwen3-4B-Instruct-2507,68,B,B,True,B,A 34-year-old divorced female working as a veterinary technician presents with a 1 year and 10-month history of persiste
+Qwen/Qwen3-4B-Instruct-2507,69,B,B,True,B,A 29-year-old single female civil service exam student (preparing for 4 years) presents with a 1 year 10 month history o
+Qwen/Qwen3-4B-Instruct-2507,70,B,D,False,D,"A 35-year-old divorced female freelance writer presents with a chief complaint of inattentiveness and restlessness, pres"
+Qwen/Qwen3-4B-Instruct-2507,71,B,D,False,D,"A 33-year-old married female, currently working as a data entry clerk, presents with a 1 year and 10 months duration of "
+Qwen/Qwen3-4B-Instruct-2507,72,B,D,False,D,A 29-year-old single female nurse presents with a 1 year and 10 month history of persistent attentional and behavioral r
+Qwen/Qwen3-4B-Instruct-2507,73,B,D,False,D,A 33-year-old single female broadcast writer presents with a one-year and ten-month history of symptoms consistent with 
+Qwen/Qwen3-4B-Instruct-2507,74,B,D,False,D,A 36-year-old married female works as a sign language interpreter for the Deaf. She reports a persistent pattern of inat
+Qwen/Qwen3-4B-Instruct-2507,75,A,A,True,A,A 43-year-old divorced female insurance agent presents with a 1 year 11 month history of prominent attentional difficult
+Qwen/Qwen3-4B-Instruct-2507,76,A,A,True,A,"An 82-year-old widowed female, residing in a nursing home, presents with a duration of 1 year and 11 months of symptoms."
+Qwen/Qwen3-4B-Instruct-2507,77,A,A,True,A,"A 37-year-old married female, currently a stay-at-home mother, presents with a 1 year and 11-month history of persistent"
+Qwen/Qwen3-4B-Instruct-2507,78,A,A,True,A,A 37-year-old married female pharmacist presents with a 1 year 11 month history of prominent attentional difficulties ca
+Qwen/Qwen3-4B-Instruct-2507,79,A,B,False,B,A 38-year-old single male tattoo artist presents with a 1-year and 11-month history of inattention and excessive verbal 
+Qwen/Qwen3-4B-Instruct-2507,80,A,A,True,A,"A 36-year-old married male, employed as a solar panel technician, presents with a history of persistent difficulties wit"
+Qwen/Qwen3-4B-Instruct-2507,81,A,A,True,A,A 33-year-old single male film editor presents with a 1 year 11 month history of prominent attentional difficulties caus
+Qwen/Qwen3-4B-Instruct-2507,82,A,B,False,B,"A 26-year-old single female, employed as a special education teacher, presents with a nearly two-year history of inatten"
+Qwen/Qwen3-4B-Instruct-2507,83,A,A,True,A,"A 27-year-old single male, employed as a landscape gardener, presents with a history of difficulty with attention and ex"
+Qwen/Qwen3-4B-Instruct-2507,84,A,A,True,A,A 29-year-old single male sommelier presents with a 1 year and 11 month history of prominent attentional difficulties as
+Qwen/Qwen3-4B-Instruct-2507,85,A,A,True,A,"A 22-year-old single female, employed as a pet groomer, presents with a nearly two-year history of inattention and relat"
+Qwen/Qwen3-4B-Instruct-2507,86,A,A,True,A,A 32-year-old single male working as a cloud architect presents with a 1 year and 11 month history of persistent difficu
+Qwen/Qwen3-4B-Instruct-2507,87,A,A,True,A,A 67-year-old widowed female volunteer worker presents with a 1 year and 11 month history of prominent attention-related
+Qwen/Qwen3-4B-Instruct-2507,88,A,A,True,A,"A 27-year-old single male, employed as a hotel front desk agent, presents with a duration of symptomology spanning one y"
+Qwen/Qwen3-4B-Instruct-2507,89,A,A,True,A,"A 46-year-old divorced male, employed as a logistics truck driver, presents with a 1 year and 11 month history of persis"
+Qwen/Qwen3-4B-Instruct-2507,90,A,A,True,A,A 28-year-old single female ER nurse presents with a 2-year-4-month history of prominent attentional difficulties causin
+Qwen/Qwen3-4B-Instruct-2507,91,A,A,True,A,"A 26-year-old single female, employed as a kindergarten teacher, presents with a 2-year and 4-month history of difficult"
+Qwen/Qwen3-4B-Instruct-2507,92,A,A,True,A,"A 70-year-old widowed female, formerly employed as a nurse, presents with a 2-year and 4-month history of persistent cog"
+Qwen/Qwen3-4B-Instruct-2507,93,A,A,True,A,A 49-year-old married male university professor presented with a 2-year-4-month history of cognitive and occupational di
+Qwen/Qwen3-4B-Instruct-2507,94,A,A,True,A,"A 52-year-old married female, who works as a Head Nurse, presents with a 2-year and 4-month history of difficulties with"
+Qwen/Qwen3-4B-Instruct-2507,95,A,A,True,A,"A 53-year-old male, married and employed as a bus driver, presents with a 2-year and 4-month history of persistent diffi"
+Qwen/Qwen3-4B-Instruct-2507,96,A,A,True,A,A 44-year-old single female museum curator presents with a 2-year 4-month history of prominent attentional difficulties 
+Qwen/Qwen3-4B-Instruct-2507,97,A,A,True,A,A 43-year-old single male bodyguard presents with a 2-year and 4-month history of persistent inattentive symptoms. The p
+Qwen/Qwen3-4B-Instruct-2507,98,A,A,True,A,A 27-year-old single female working as a Fashion Stylist Assistant presents with a 2-year and 4-month history of persist
+Qwen/Qwen3-4B-Instruct-2507,99,A,A,True,A,An 82-year-old widowed female nursing home resident presents with a 2-year-4-month history of persistent attentional dif
+Qwen/Qwen3-4B-Thinking-2507,0,B,C,False,C,A 34-year-old married male chef presents with a 1 year 5 month history of persistent attentional and behavioral symptoms
+Qwen/Qwen3-4B-Thinking-2507,1,B,B,True,B,"A 50-year-old married female, employed as a Human Resources Director, presents with a 1-year and 5-month history of symp"
+Qwen/Qwen3-4B-Thinking-2507,2,B,C,False,C,"A 39-year-old single female, employed as a pharmacist, presents with a 1-year and 5-month history of persistent difficul"
+Qwen/Qwen3-4B-Thinking-2507,3,B,C,False,C,A 27-year-old single female fashion stylist assistant presents with a 1 year and 5 month history of persistent inattenti
+Qwen/Qwen3-4B-Thinking-2507,4,B,B,True,B,A 29-year-old single male sound engineer presents with a 1-year and 5-month history of symptoms characterized by signifi
+Qwen/Qwen3-4B-Thinking-2507,5,B,C,False,C,"A 50-year-old female, married, working as a Human Resources Director, presents with a 1 year and 5 months history of fun"
+Qwen/Qwen3-4B-Thinking-2507,6,B,C,False,C,A 28-year-old single female ER nurse presents with a 1 year 5 month history of persistent attentional and behavioral reg
+Qwen/Qwen3-4B-Thinking-2507,7,B,C,False,C,"A 22-year-old single male, employed as a professional gamer, presents with a 1-year and 5-month history of symptoms. He "
+Qwen/Qwen3-4B-Thinking-2507,8,B,C,False,C,A 36-year-old married male working as an auto mechanic presents with a 1 year and 5 months duration of persistent diffic
+Qwen/Qwen3-4B-Thinking-2507,9,B,C,False,C,A 53-year-old married male bus driver presents with a 1 year and 5 month history of prominent inattentive and hyperactiv
+Qwen/Qwen3-4B-Thinking-2507,10,B,C,False,C,"A 55-year-old male, a pest control specialist and divorced, presents with a 17-month history of symptoms indicative of n"
+Qwen/Qwen3-4B-Thinking-2507,11,B,C,False,C,"A 游戏副本eldig-male
+
+The patient is a 41-year-old married male working as a welder. He reports a history of functional diff"
+Qwen/Qwen3-4B-Thinking-2507,12,B,B,True,B,A 35-year-old married female speech therapist presents with a 1 year and 5 month history of persistent inattentive and h
+Qwen/Qwen3-4B-Thinking-2507,13,B,B,True,B,A 39-year-old married female dermatologist presents with a 1-year and 5-month history of difficulties with inattention a
+Qwen/Qwen3-4B-Thinking-2507,14,B,B,True,B,"A 37-year-old male, single, and employed as a subway driver, presents with a 1 year and 5-month history of persistent di"
+Qwen/Qwen3-4B-Thinking-2507,15,A,C,False,C,"A 21-year-old single female, employed part-time at a café, presents with a 1 year and 10 month history of pervasive atte"
+Qwen/Qwen3-4B-Thinking-2507,16,A,A,True,A,A 42-year-old married male factory supervisor presents with a 1-year and 10-month history of a persistent pattern of ina
+Qwen/Qwen3-4B-Thinking-2507,17,A,A,True,A,A 38-year-old married male working as a crane operator presents with a history of persistent difficulties with attention
+Qwen/Qwen3-4B-Thinking-2507,18,A,A,True,A,A 23-year-old single female professional ballet dancer presents with a 1 year and 10 month history of pervasive inattent
+Qwen/Qwen3-4B-Thinking-2507,19,A,A,True,A,"A 33-year-old single female, employed as a flight attendant, presents with a 1-year and 10-month history of symptoms sug"
+Qwen/Qwen3-4B-Thinking-2507,20,A,A,True,A,"A 41-year-old female, single, and employed as a hairdresser and salon owner, presents with a 1 year and 10-month history"
+Qwen/Qwen3-4B-Thinking-2507,21,A,C,False,C,A 38-year-old single male tattoo artist presents with a 1 year and 10 month history of pervasive attentional and behavio
+Qwen/Qwen3-4B-Thinking-2507,22,A,A,True,A,"A 52-year-old married female, employed as a Head Nurse, presents with a 1-year and 10-month history of symptoms suggesti"
+Qwen/Qwen3-4B-Thinking-2507,23,A,A,True,A,"A 31-year-old single female, employed as a wedding dress designer, presents with a prolonged history of inattention, hyp"
+Qwen/Qwen3-4B-Thinking-2507,24,A,A,True,A,A 45-year-old divorced female psychiatric ward nurse presents with a 1 year and 10 month history of persistent problems 
+Qwen/Qwen3-4B-Thinking-2507,25,A,A,True,A,A 48-year-old married male factory supervisor presents with a 22-month history of difficulties with attention and hypera
+Qwen/Qwen3-4B-Thinking-2507,26,A,A,True,A,"A 45-year-old male, divorced, working as a documentary director, presents with a 1 year and 10 month history of persiste"
+Qwen/Qwen3-4B-Thinking-2507,27,A,A,True,A,A 38-year-old single male high school teacher presents with longstanding patterns of inattentive and hyperactive-impulsi
+Qwen/Qwen3-4B-Thinking-2507,28,A,A,True,A,A 42-year-old divorced female custom furniture maker presents with a 1-year and 10-month history of symptoms characteriz
+Qwen/Qwen3-4B-Thinking-2507,29,A,C,False,C,"A 28-year-old single female, working as a public defender, presents with a 1 year and 10 months duration of persistent d"
+Qwen/Qwen3-4B-Thinking-2507,30,C,C,True,C,A 46-year-old married female interior designer presents with a 2-year-2-month history of pervasive difficulties with att
+Qwen/Qwen3-4B-Thinking-2507,31,C,C,True,C,"A 58-year-old male school bus driver, widowed for several years, presents with a 26-month history of a persistent patter"
+Qwen/Qwen3-4B-Thinking-2507,32,C,C,True,C,"A 48-year-old male, married and employed as a subway driver working in underground transit operations, presents with a 2"
+Qwen/Qwen3-4B-Thinking-2507,33,C,B,False,B,A 38-year-old single male construction worker presents with a 2-year-2-month history of pervasive attentional and behavi
+Qwen/Qwen3-4B-Thinking-2507,34,C,C,True,C,"A 58-year-old married male, employed as a Building Maintenance Supervisor, presents with a 2-year and 2-month history of"
+Qwen/Qwen3-4B-Thinking-2507,35,C,B,False,B,A 82-year-old widowed female nursing home resident presents with a 2-year and 2-month history of persistent difficulties
+Qwen/Qwen3-4B-Thinking-2507,36,C,B,False,B,A 41-year-old married female restaurant owner presents with a 2-year-2-month history of persistent attentional and behav
+Qwen/Qwen3-4B-Thinking-2507,37,C,C,True,C,A 31-year-old married female elementary school teacher presents with a 2-year and 2-month history of symptoms characteri
+Qwen/Qwen3-4B-Thinking-2507,38,C,C,True,C,A 28-year-old single male working as a software developer presents with a 2-year and 2-month history of persistent diffi
+Qwen/Qwen3-4B-Thinking-2507,39,C,B,False,B,"A 41-year-old married female restaurant owner presented with a 2-year, 2-month history of persistent difficulties with a"
+Qwen/Qwen3-4B-Thinking-2507,40,C,C,True,C,A 60-year-old married male ship captain presents with a 2-year and 2-month history of a pervasive pattern of inattention
+Qwen/Qwen3-4B-Thinking-2507,41,C,C,True,C,"A  provocatively high-energy 31-year-old male, married and employed as a firefighter, presents with a two-year and two-m"
+Qwen/Qwen3-4B-Thinking-2507,42,C,B,False,B,A 47-year-old single female department store sales manager presents with a 2-year-2-month history of prominent attention
+Qwen/Qwen3-4B-Thinking-2507,43,C,C,True,C,"A 37-year-old married female, who is a stay-at-home mother, presents with a duration of two years and two months of symp"
+Qwen/Qwen3-4B-Thinking-2507,44,C,C,True,C,A 27-year-old single female employed as an architectural designer presents with a 2-year and 2-month history of persiste
+Qwen/Qwen3-4B-Thinking-2507,45,D,B,False,B,A 38-year-old single male tattoo artist presents with a 1 year and 2 month history of persistent attentional and behavio
+Qwen/Qwen3-4B-Thinking-2507,46,D,A,False,A,A 45-year-old divorced male documentary director presents with a 14-month history of difficulties with attention and hyp
+Qwen/Qwen3-4B-Thinking-2507,47,D,B,False,B,"A 30-year-old single male, employed as a startup founder currently facing financial insolvency, presents with a 1 year a"
+Qwen/Qwen3-4B-Thinking-2507,48,D,B,False,B,A 32-year-old divorced male Chef de Cuisine presents with a 1 year and 2 month history of pervasive inattentive and hype
+Qwen/Qwen3-4B-Thinking-2507,49,D,B,False,B,A 57-year-old married female school principal presents with a 14-month history of significant difficulties with attentio
+Qwen/Qwen3-4B-Thinking-2507,50,D,B,False,B,"A 42-year-old male, married, working as a mechanical engineer, presents with a 1 year and 2 months history of persistent"
+Qwen/Qwen3-4B-Thinking-2507,51,D,B,False,B,A 65-year-old widowed male forest ranger presents with a 1 year and 2 month history of pervasive inattentive and hyperac
+Qwen/Qwen3-4B-Thinking-2507,52,D,B,False,B,A 44-year-old married male shipbuilder presents with a 14-month history of difficulties with inattention and hyperactivi
+Qwen/Qwen3-4B-Thinking-2507,53,D,A,False,A,A 28-year-old single male working as a software developer presents with a 1 year and 2 months history of persistent diff
+Qwen/Qwen3-4B-Thinking-2507,54,D,B,False,B,A 27-year-old single male hotel front desk agent presents with a 1 year and 2 month history of pervasive attentional and
+Qwen/Qwen3-4B-Thinking-2507,55,D,B,False,B,A 25-year-old single male paramedic presents with a 1-year and 2-month history of symptoms characterized by inattention 
+Qwen/Qwen3-4B-Thinking-2507,56,D,B,False,B,"A 62-year-old married female, currently working part-time as a census taker, presents with a 1-year and 2-month history "
+Qwen/Qwen3-4B-Thinking-2507,57,D,A,False,A,A 28-year-old single male police patrol officer presents with a 1 year and 2 month history of persistent problems with a
+Qwen/Qwen3-4B-Thinking-2507,58,D,B,False,B,"A 52-year-old married female, who works as a Head Nurse, presents with a 14-month history of a persistent and pervasive "
+Qwen/Qwen3-4B-Thinking-2507,59,D,A,False,A,"A 38-year-old male, single, and working as a high school teacher, presents with a 1 year and 2 month history of persiste"
+Qwen/Qwen3-4B-Thinking-2507,60,B,B,True,B,A 29-year-old single male medical resident (intern) presents with a 1 year and 10 month history of pervasive attentional
+Qwen/Qwen3-4B-Thinking-2507,61,B,B,True,B,"A 41-year-old married male, employed as a welder, presents with a duration of symptoms spanning 1 year and 10 months. Th"
+Qwen/Qwen3-4B-Thinking-2507,62,B,B,True,B,"A 32-year-old single male, employed as an archivist, presents with a 1 year and 10-month history of persistent difficult"
+Qwen/Qwen3-4B-Thinking-2507,63,B,B,True,B,A 47-year-old single female department store sales manager presents with a 1 year 10 month history of pervasive attentio
+Qwen/Qwen3-4B-Thinking-2507,64,B,B,True,B,A 34-year-old divorced female veterinary technician presents with a 22-month history of significant difficulties with at
+Qwen/Qwen3-4B-Thinking-2507,65,B,B,True,B,"A 39-year-old married female, currently a stay-at-home mother, presents with a 1 year and 10-month history of persistent"
+Qwen/Qwen3-4B-Thinking-2507,66,B,B,True,B,A 37-year-old single male subway driver presents with a 1 year 10 month history of pervasive attentional and behavioral 
+Qwen/Qwen3-4B-Thinking-2507,67,B,B,True,B,A 59-year-old single female government official presents with a 1-year and 10-month history of significant difficulties 
+Qwen/Qwen3-4B-Thinking-2507,68,B,B,True,B,A 34-year-old divorced female working as a veterinary technician presents with a 1 year and 10-month history of persiste
+Qwen/Qwen3-4B-Thinking-2507,69,B,B,True,B,A 29-year-old single female civil service exam student (preparing for 4 years) presents with a 1 year 10 month history o
+Qwen/Qwen3-4B-Thinking-2507,70,B,B,True,B,"A 35-year-old divorced female freelance writer presents with a chief complaint of inattentiveness and restlessness, pres"
+Qwen/Qwen3-4B-Thinking-2507,71,B,B,True,B,"A 33-year-old married female, currently working as a data entry clerk, presents with a 1 year and 10 months duration of "
+Qwen/Qwen3-4B-Thinking-2507,72,B,B,True,B,A 29-year-old single female nurse presents with a 1 year and 10 month history of persistent attentional and behavioral r
+Qwen/Qwen3-4B-Thinking-2507,73,B,B,True,B,A 33-year-old single female broadcast writer presents with a one-year and ten-month history of symptoms consistent with 
+Qwen/Qwen3-4B-Thinking-2507,74,B,B,True,B,A 36-year-old married female works as a sign language interpreter for the Deaf. She reports a persistent pattern of inat
+Qwen/Qwen3-4B-Thinking-2507,75,A,A,True,A,A 43-year-old divorced female insurance agent presents with a 1 year 11 month history of prominent attentional difficult
+Qwen/Qwen3-4B-Thinking-2507,76,A,A,True,A,"An 82-year-old widowed female, residing in a nursing home, presents with a duration of 1 year and 11 months of symptoms."
+Qwen/Qwen3-4B-Thinking-2507,77,A,A,True,A,"A 37-year-old married female, currently a stay-at-home mother, presents with a 1 year and 11-month history of persistent"
+Qwen/Qwen3-4B-Thinking-2507,78,A,A,True,A,A 37-year-old married female pharmacist presents with a 1 year 11 month history of prominent attentional difficulties ca
+Qwen/Qwen3-4B-Thinking-2507,79,A,B,False,B,A 38-year-old single male tattoo artist presents with a 1-year and 11-month history of inattention and excessive verbal 
+Qwen/Qwen3-4B-Thinking-2507,80,A,A,True,A,"A 36-year-old married male, employed as a solar panel technician, presents with a history of persistent difficulties wit"
+Qwen/Qwen3-4B-Thinking-2507,81,A,A,True,A,A 33-year-old single male film editor presents with a 1 year 11 month history of prominent attentional difficulties caus
+Qwen/Qwen3-4B-Thinking-2507,82,A,B,False,B,"A 26-year-old single female, employed as a special education teacher, presents with a nearly two-year history of inatten"
+Qwen/Qwen3-4B-Thinking-2507,83,A,A,True,A,"A 27-year-old single male, employed as a landscape gardener, presents with a history of difficulty with attention and ex"
+Qwen/Qwen3-4B-Thinking-2507,84,A,A,True,A,A 29-year-old single male sommelier presents with a 1 year and 11 month history of prominent attentional difficulties as
+Qwen/Qwen3-4B-Thinking-2507,85,A,A,True,A,"A 22-year-old single female, employed as a pet groomer, presents with a nearly two-year history of inattention and relat"
+Qwen/Qwen3-4B-Thinking-2507,86,A,A,True,A,A 32-year-old single male working as a cloud architect presents with a 1 year and 11 month history of persistent difficu
+Qwen/Qwen3-4B-Thinking-2507,87,A,A,True,A,A 67-year-old widowed female volunteer worker presents with a 1 year and 11 month history of prominent attention-related
+Qwen/Qwen3-4B-Thinking-2507,88,A,A,True,A,"A 27-year-old single male, employed as a hotel front desk agent, presents with a duration of symptomology spanning one y"
+Qwen/Qwen3-4B-Thinking-2507,89,A,A,True,A,"A 46-year-old divorced male, employed as a logistics truck driver, presents with a 1 year and 11 month history of persis"
+Qwen/Qwen3-4B-Thinking-2507,90,A,A,True,A,A 28-year-old single female ER nurse presents with a 2-year-4-month history of prominent attentional difficulties causin
+Qwen/Qwen3-4B-Thinking-2507,91,A,A,True,A,"A 26-year-old single female, employed as a kindergarten teacher, presents with a 2-year and 4-month history of difficult"
+Qwen/Qwen3-4B-Thinking-2507,92,A,A,True,A,"A 70-year-old widowed female, formerly employed as a nurse, presents with a 2-year and 4-month history of persistent cog"
+Qwen/Qwen3-4B-Thinking-2507,93,A,A,True,A,A 49-year-old married male university professor presented with a 2-year-4-month history of cognitive and occupational di
+Qwen/Qwen3-4B-Thinking-2507,94,A,A,True,A,"A 52-year-old married female, who works as a Head Nurse, presents with a 2-year and 4-month history of difficulties with"
+Qwen/Qwen3-4B-Thinking-2507,95,A,A,True,A,"A 53-year-old male, married and employed as a bus driver, presents with a 2-year and 4-month history of persistent diffi"
+Qwen/Qwen3-4B-Thinking-2507,96,A,A,True,A,A 44-year-old single female museum curator presents with a 2-year 4-month history of prominent attentional difficulties 
+Qwen/Qwen3-4B-Thinking-2507,97,A,A,True,A,A 43-year-old single male bodyguard presents with a 2-year and 4-month history of persistent inattentive symptoms. The p
+Qwen/Qwen3-4B-Thinking-2507,98,A,A,True,A,A 27-year-old single female working as a Fashion Stylist Assistant presents with a 2-year and 4-month history of persist
+Qwen/Qwen3-4B-Thinking-2507,99,A,A,True,A,An 82-year-old widowed female nursing home resident presents with a 2-year-4-month history of persistent attentional dif
